@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=College
+comment0.text=\r\n\ Creates\ a\ College,\ where\ there\ are\ Student\ instances\ working.\r\n\ Describes\ the\ College\ and\ runs\ the\ College.\ \r\n\r\n\ @author\ \ jc812\r\n\ @version\ 1.0\r\n
+comment1.params=numOfStudents\ numOfTextbooks
+comment1.target=College(int,\ int)
+comment1.text=\r\n\ Constructor\ for\ fields\ of\ class\ College\ -\ new\ Library,\ new\ Set\ of\ Students\r\n\ \r\n\ @param\ numOfStudents\ \ \ Number\ of\ Students\ in\ the\ College\ \r\n\ @param\ numOfTextbooks\ \ Number\ of\ Textbooks\ in\ the\ College\r\n\ @return\ College\ instance\r\n
+comment2.params=
+comment2.target=void\ describe()
+comment2.text=\r\n\ Describes\ the\ College\ and\ the\ number\ of\ Students\ working\ there.\r\n\r\n\ @return\ void\r\n
+comment3.params=
+comment3.target=void\ nextStep()
+comment3.text=\r\n\ Checks\ whether\ a\ random\ Student\ has\ finished\ studying\ and\ makes\ the\ Student\ leave\ the\ College.\r\n\ \r\n\ @return\ void\r\n
+comment4.params=nSteps
+comment4.target=void\ runCollege(int)
+comment4.text=\r\n\ Describes\ the\ College,\ and\ determines\ if\ a\ random\ student\ can\ leave\ the\ College,\ a\ set\ number\ of\ times.\r\n\ \r\n\ @param\ nSteps\ The\ number\ of\ times\ to\ run\r\n\ @return\ void\r\n
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+comment5.text=\r\n\ Starts\ the\ program\ if\ running\ Java\ in\ standalone.\r\n\ \r\n\ @param\ args\ Inputs\ Array\ of\ numOfStudents,\ numOfTextbooks,\ nSteps\r\n\ @return\ void\r\n
+numComments=6

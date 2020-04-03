@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Student
+comment0.text=\r\n\ The\ Student\ instance\ can\ be\ described,\ can\ study,\ \r\n\ and\ you\ can\ check\ whether\ they\ have\ finished\ studying.\r\n\r\n\ @author\ jc812\r\n\ @version\ 1.0\r\n
+comment1.params=name\ library
+comment1.target=Student(java.lang.String,\ Library)
+comment1.text=\r\n\ Constructor\ for\ fields\ of\ class\ Student\ -\ assigns\ a\ suitable\ library,\ libraryCard\ and\ Name\ to\ the\ Student.\r\n\ \r\n\ @param\ name\ \ \ \ \ Name\ of\ the\ Student\r\n\ @param\ library\ \ Library\ instance\ the\ Student\ is\ part\ of\r\n\ @return\ Student\ instance\r\n
+comment2.params=
+comment2.target=boolean\ finishedStudies()
+comment2.text=\r\n\ Checks\ whether\ the\ Student\ has\ finished\ studying.\r\n\r\n\ @return\ boolean\r\n
+comment3.params=
+comment3.target=void\ study()
+comment3.text=\r\n\ The\ Student\ studys\ by\ getting\ a\ Textbook\ out\ or\ reads\ a\ chapter\ or\ returns\ a\ Textbook.\r\n\ \r\n\ @return\ void\r\n
+comment4.params=
+comment4.target=void\ describe()
+comment4.text=\r\n\ The\ Student\ is\ described;\ their\ name,\ LibraryCard\ and\ Textbook.\r\n\ \r\n\ @return\ void\r\n
+numComments=5
